@@ -1,0 +1,109 @@
+,Classifier,Accuracy,Time,Classification report
+0,Ridge Classifier,0.8227594413477798,138.70228838920593,"              precision    recall  f1-score   support
+
+           0       0.83      0.81      0.82      8013
+           1       0.81      0.84      0.82      7954
+
+    accuracy                           0.82     15967
+   macro avg       0.82      0.82      0.82     15967
+weighted avg       0.82      0.82      0.82     15967
+"
+1,Logistic Regression,0.8242625414918269,142.1022825241089,"              precision    recall  f1-score   support
+
+           0       0.83      0.82      0.82      8013
+           1       0.82      0.83      0.82      7954
+
+    accuracy                           0.82     15967
+   macro avg       0.82      0.82      0.82     15967
+weighted avg       0.82      0.82      0.82     15967
+"
+2,Perceptron,0.7638880190392685,78.63590431213379,"              precision    recall  f1-score   support
+
+           0       0.77      0.76      0.76      8013
+           1       0.76      0.76      0.76      7954
+
+    accuracy                           0.76     15967
+   macro avg       0.76      0.76      0.76     15967
+weighted avg       0.76      0.76      0.76     15967
+"
+3,Passive-Agressive Classifier,0.7991482432517066,79.55954933166504,"              precision    recall  f1-score   support
+
+           0       0.81      0.79      0.80      8013
+           1       0.79      0.81      0.80      7954
+
+    accuracy                           0.80     15967
+   macro avg       0.80      0.80      0.80     15967
+weighted avg       0.80      0.80      0.80     15967
+"
+4,Stochastic Gradient Descent,0.787436587962673,84.75202989578247,"              precision    recall  f1-score   support
+
+           0       0.80      0.77      0.78      8013
+           1       0.78      0.80      0.79      7954
+
+    accuracy                           0.79     15967
+   macro avg       0.79      0.79      0.79     15967
+weighted avg       0.79      0.79      0.79     15967
+"
+5,LinearSVC,0.8232604747291288,666.1907765865326,"              precision    recall  f1-score   support
+
+           0       0.82      0.83      0.83      8013
+           1       0.83      0.81      0.82      7954
+
+    accuracy                           0.82     15967
+   macro avg       0.82      0.82      0.82     15967
+weighted avg       0.82      0.82      0.82     15967
+"
+6,L1 based LinearSVC,0.8234483622471347,771.6809492111206,"              precision    recall  f1-score   support
+
+           0       0.82      0.83      0.82      8013
+           1       0.82      0.82      0.82      7954
+
+    accuracy                           0.82     15967
+   macro avg       0.82      0.82      0.82     15967
+weighted avg       0.82      0.82      0.82     15967
+"
+7,KNN,0.625540176614267,1659.7151505947113,"              precision    recall  f1-score   support
+
+           0       0.69      0.45      0.55      8013
+           1       0.59      0.80      0.68      7954
+
+    accuracy                           0.63     15967
+   macro avg       0.64      0.63      0.61     15967
+weighted avg       0.64      0.63      0.61     15967
+"
+8,Nearest Centroid,0.7254963361933989,78.82809567451477,"              precision    recall  f1-score   support
+
+           0       0.72      0.74      0.73      8013
+           1       0.73      0.71      0.72      7954
+
+    accuracy                           0.73     15967
+   macro avg       0.73      0.73      0.73     15967
+weighted avg       0.73      0.73      0.73     15967
+"
+9,Multinomial NB,0.8015281518131145,77.95123839378357,"              precision    recall  f1-score   support
+
+           0       0.80      0.81      0.80      8013
+           1       0.81      0.79      0.80      7954
+
+    accuracy                           0.80     15967
+   macro avg       0.80      0.80      0.80     15967
+weighted avg       0.80      0.80      0.80     15967
+"
+10,Bernoulli NB,0.7991482432517066,80.46155023574829,"              precision    recall  f1-score   support
+
+           0       0.81      0.78      0.80      8013
+           1       0.79      0.81      0.80      7954
+
+    accuracy                           0.80     15967
+   macro avg       0.80      0.80      0.80     15967
+weighted avg       0.80      0.80      0.80     15967
+"
+11,Adaboost,0.7023235423060061,587.5655300617218,"              precision    recall  f1-score   support
+
+           0       0.75      0.62      0.68      8013
+           1       0.67      0.79      0.72      7954
+
+    accuracy                           0.70     15967
+   macro avg       0.71      0.70      0.70     15967
+weighted avg       0.71      0.70      0.70     15967
+"
