@@ -1,0 +1,109 @@
+,Classifier,Classification report
+0,Ridge Classifier,"              precision    recall  f1-score   support
+
+           0       0.83      0.80      0.82      8013
+           1       0.81      0.84      0.82      7954
+
+    accuracy                           0.82     15967
+   macro avg       0.82      0.82      0.82     15967
+weighted avg       0.82      0.82      0.82     15967
+"
+1,Logistic Regression,"              precision    recall  f1-score   support
+
+           0       0.83      0.81      0.82      8013
+           1       0.82      0.83      0.83      7954
+
+    accuracy                           0.82     15967
+   macro avg       0.82      0.82      0.82     15967
+weighted avg       0.82      0.82      0.82     15967
+"
+2,Perceptron,"              precision    recall  f1-score   support
+
+           0       0.77      0.73      0.75      8013
+           1       0.74      0.78      0.76      7954
+
+    accuracy                           0.76     15967
+   macro avg       0.76      0.76      0.76     15967
+weighted avg       0.76      0.76      0.76     15967
+"
+3,Passive-Agressive Classifier,"              precision    recall  f1-score   support
+
+           0       0.78      0.75      0.76      8013
+           1       0.75      0.78      0.77      7954
+
+    accuracy                           0.76     15967
+   macro avg       0.76      0.76      0.76     15967
+weighted avg       0.76      0.76      0.76     15967
+"
+4,Stochastic Gradient Descent,"              precision    recall  f1-score   support
+
+           0       0.83      0.79      0.81      8013
+           1       0.80      0.83      0.82      7954
+
+    accuracy                           0.81     15967
+   macro avg       0.81      0.81      0.81     15967
+weighted avg       0.81      0.81      0.81     15967
+"
+5,LinearSVC,"              precision    recall  f1-score   support
+
+           0       0.84      0.80      0.82      8013
+           1       0.81      0.84      0.82      7954
+
+    accuracy                           0.82     15967
+   macro avg       0.82      0.82      0.82     15967
+weighted avg       0.82      0.82      0.82     15967
+"
+6,L1 based LinearSVC,"              precision    recall  f1-score   support
+
+           0       0.84      0.79      0.82      8013
+           1       0.80      0.84      0.82      7954
+
+    accuracy                           0.82     15967
+   macro avg       0.82      0.82      0.82     15967
+weighted avg       0.82      0.82      0.82     15967
+"
+7,KNN,"              precision    recall  f1-score   support
+
+           0       0.75      0.66      0.70      8013
+           1       0.69      0.78      0.73      7954
+
+    accuracy                           0.72     15967
+   macro avg       0.72      0.72      0.72     15967
+weighted avg       0.72      0.72      0.72     15967
+"
+8,Nearest Centroid,"              precision    recall  f1-score   support
+
+           0       0.66      0.57      0.61      8013
+           1       0.62      0.70      0.66      7954
+
+    accuracy                           0.64     15967
+   macro avg       0.64      0.64      0.64     15967
+weighted avg       0.64      0.64      0.64     15967
+"
+9,Multinomial NB,"              precision    recall  f1-score   support
+
+           0       0.79      0.81      0.80      8013
+           1       0.80      0.79      0.80      7954
+
+    accuracy                           0.80     15967
+   macro avg       0.80      0.80      0.80     15967
+weighted avg       0.80      0.80      0.80     15967
+"
+10,Bernoulli NB,"              precision    recall  f1-score   support
+
+           0       0.81      0.77      0.79      8013
+           1       0.78      0.82      0.80      7954
+
+    accuracy                           0.79     15967
+   macro avg       0.79      0.79      0.79     15967
+weighted avg       0.79      0.79      0.79     15967
+"
+11,Adaboost,"              precision    recall  f1-score   support
+
+           0       0.74      0.62      0.68      8013
+           1       0.67      0.78      0.72      7954
+
+    accuracy                           0.70     15967
+   macro avg       0.71      0.70      0.70     15967
+weighted avg       0.71      0.70      0.70     15967
+"
